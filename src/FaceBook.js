@@ -18,7 +18,6 @@ export default class FaceBookOauth  extends React.Component{
       this.setState({ data: 'something happen wrong' })
     }
   }
-
   render() {
     return <div>
       <Facebook 
